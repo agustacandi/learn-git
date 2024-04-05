@@ -9,4 +9,4 @@ update from squash branch 2
 update from conflict
 a
 b
-c
+cc
