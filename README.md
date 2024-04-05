@@ -10,3 +10,4 @@ update from conflict
 a
 b
 c
+d
