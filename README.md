@@ -8,3 +8,4 @@ update from squash branch
 update from squash branch 2
 update from conflict
 a
+b
